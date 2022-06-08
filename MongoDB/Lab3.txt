@@ -1,6 +1,6 @@
-#Lab 3 - BDA (Mongo DB)
-#1BM18CS079 - Rajath MK
-#B2 Batch
+#Lab  - BDA (Mongo DB)
+#1BM19CS218 - Isha Singh
+#A4 Batch
 
 > db
 test
